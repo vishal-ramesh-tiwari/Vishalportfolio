@@ -172,16 +172,6 @@ section{
 }
 
 
-.home .image img{
-    height:50rem;
-    box-shadow: 0 .5rem 1rem rgba(0,0,0,.3);
-    border-top: 3rem solid var(--primary-bg-color);
-    border-right: 3rem solid var(--primary-bg-color);
-    border-bottom: 3rem solid var(--main-color);
-    border-left: 3rem solid var(--main-color);
-    border-radius: .5rem;
-}
-
 .home .content{
     flex:1 1 40rem;
     padding:1rem;
