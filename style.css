@@ -40,8 +40,9 @@ html::-webkit-scrollbar-thumb{
     background-color: var(--main-color);
 }
 
-body{
-    background:var(--secondary-bg-color);
+body {
+  background: #000000;
+  padding-bottom: 6.5rem;
 }
 
 body.dark-theme{
